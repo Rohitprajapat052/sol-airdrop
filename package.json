@@ -1,0 +1,16 @@
+{
+  "name": "sol-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2",
+    "bigint-buffer": "^1.1.5",
+    "webidl-conversions": "^7.0.0"
+  }
+}
